@@ -1,4 +1,3 @@
-
 // Program to count the number of vowels in an array
 #include <stdio.h>
 int main()
